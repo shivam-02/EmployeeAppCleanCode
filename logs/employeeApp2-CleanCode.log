@@ -1,0 +1,261 @@
+Wed Nov 23 10:37:24 IST 2016:: in PropertiesServlet info :: class com.EmployeeApp.servlet.PropertiesServlet
+Wed Nov 23 10:37:24 IST 2016 in Resource Properties Map getMap method class com.EmployeeApp.util.ResourcePropertiesMap
+Properties Hash Map {saveEmployeeMessage=Employee has been saved successfully}
+Wed Nov 23 10:37:25 IST 2016:: in DepartmentList info :: class com.EmployeeApp.servlet.DepartmentList
+Connection made com.mysql.jdbc.Connection@e2143ff
+Wed Nov 23 10:37:25 IST 2016 in getDepartmentList class com.EmployeeApp.dao.DepartmentDAO
+Wed Nov 23 10:37:25 IST 2016:: in ListEmployee info :: class com.EmployeeApp.servlet.ListEmployee
+Connection made com.mysql.jdbc.Connection@6ba3b481
+Wed Nov 23 10:37:25 IST 2016 in getEmployeeByType class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 10:37:25 IST 2016 in getEmployeeCount class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 10:37:46 IST 2016:: in PropertiesServlet info :: class com.EmployeeApp.servlet.PropertiesServlet
+Wed Nov 23 10:37:46 IST 2016 in Resource Properties Map getMap method class com.EmployeeApp.util.ResourcePropertiesMap
+Properties Hash Map {saveEmployeeMessage=Employee has been saved successfully}
+Wed Nov 23 10:37:47 IST 2016:: in DepartmentList info :: class com.EmployeeApp.servlet.DepartmentList
+Connection made com.mysql.jdbc.Connection@a8cac53
+Wed Nov 23 10:37:47 IST 2016 in getDepartmentList class com.EmployeeApp.dao.DepartmentDAO
+Wed Nov 23 10:37:48 IST 2016:: in ListEmployee info :: class com.EmployeeApp.servlet.ListEmployee
+Connection made com.mysql.jdbc.Connection@63096dc3
+Wed Nov 23 10:37:48 IST 2016 in getEmployeeByType class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 10:37:48 IST 2016 in getEmployeeCount class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 10:37:54 IST 2016:: in login servlet info :: class com.EmployeeApp.servlet.LoginServlet
+Login Module - initialize called
+Login Module - login called
+Wed Nov 23 10:37:54 IST 2016in handle method class com.EmployeeApp.handler.MyCallbackHandler
+Connection made com.mysql.jdbc.Connection@58cdc845
+Wed Nov 23 10:37:54 IST 2016 in authenticate class com.EmployeeApp.dao.UserDAO
+Login Module - commit called
+Wed Nov 23 10:37:54 IST 2016:: in ListEmployee info :: class com.EmployeeApp.servlet.ListEmployee
+Connection made com.mysql.jdbc.Connection@1aa9f17f
+Wed Nov 23 10:37:54 IST 2016 in getEmployeeByType class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 10:37:54 IST 2016 in getEmployeeCount class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 10:38:10 IST 2016:: in AddEmployee info :: class com.EmployeeApp.servlet.AddEmployee
+Connection made com.mysql.jdbc.Connection@24d2d490
+Wed Nov 23 10:38:10 IST 2016 in addEmployee class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 10:38:10 IST 2016 in getCurrentEmployeeId class com.EmployeeApp.dao.EmployeeDAO
+Connection made com.mysql.jdbc.Connection@4bfcbee9
+Wed Nov 23 10:38:10 IST 2016 in addType class com.EmployeeApp.dao.EmployeeTypeDetailDAO
+Connection made com.mysql.jdbc.Connection@2d5ebab4
+Wed Nov 23 10:38:10 IST 2016 in addEmployeeDepartmentDetail class com.EmployeeApp.dao.EmployeeDepartmentDetailDAO
+Wed Nov 23 10:38:18 IST 2016:: in AddEmployee info :: class com.EmployeeApp.servlet.AddEmployee
+Connection made com.mysql.jdbc.Connection@66316de6
+Wed Nov 23 10:38:18 IST 2016 in addEmployee class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 10:38:18 IST 2016 in getCurrentEmployeeId class com.EmployeeApp.dao.EmployeeDAO
+Connection made com.mysql.jdbc.Connection@12212c9d
+Wed Nov 23 10:38:18 IST 2016 in addType class com.EmployeeApp.dao.EmployeeTypeDetailDAO
+Connection made com.mysql.jdbc.Connection@2cda5a9b
+Wed Nov 23 10:38:18 IST 2016 in addEmployeeDepartmentDetail class com.EmployeeApp.dao.EmployeeDepartmentDetailDAO
+Wed Nov 23 10:38:23 IST 2016:: in ListEmployee info :: class com.EmployeeApp.servlet.ListEmployee
+Connection made com.mysql.jdbc.Connection@5a3b8383
+Wed Nov 23 10:38:23 IST 2016 in getEmployeeByType class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 10:38:23 IST 2016 in getEmployeeCount class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 10:38:29 IST 2016:: in DeleteEmployee info :: class com.EmployeeApp.servlet.DeleteEmployee
+Connection made com.mysql.jdbc.Connection@29502621
+Wed Nov 23 10:38:29 IST 2016 in deleteEmployeeDepartmentDetail class com.EmployeeApp.dao.EmployeeDepartmentDetailDAO
+Connection made com.mysql.jdbc.Connection@b378df4
+Wed Nov 23 10:38:29 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeDAO
+Connection made com.mysql.jdbc.Connection@18756f74
+Wed Nov 23 10:38:29 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 10:38:29 IST 2016:: in ListEmployee info :: class com.EmployeeApp.servlet.ListEmployee
+Connection made com.mysql.jdbc.Connection@108a6823
+Wed Nov 23 10:38:29 IST 2016 in getEmployeeByType class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 10:38:29 IST 2016 in getEmployeeCount class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 10:38:35 IST 2016:: in ListEmployeeType info :: class com.EmployeeApp.servlet.ListEmployeeType
+Connection made com.mysql.jdbc.Connection@688c5e06
+Wed Nov 23 10:38:35 IST 2016 in getListTypes class com.EmployeeApp.dao.EmployeeTypeDAO
+Wed Nov 23 10:38:35 IST 2016:: in ListEmployee info :: class com.EmployeeApp.servlet.ListEmployee
+Connection made com.mysql.jdbc.Connection@4dc79451
+Wed Nov 23 10:38:35 IST 2016 in getEmployeeByType class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 10:38:35 IST 2016 in getEmployeeCount class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 10:38:38 IST 2016:: in ListEmployee info :: class com.EmployeeApp.servlet.ListEmployee
+Connection made com.mysql.jdbc.Connection@1f26ac06
+Wed Nov 23 10:38:38 IST 2016 in getEmployeeByType class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 10:38:38 IST 2016 in getEmployeeCount class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 10:38:39 IST 2016:: in ListEmployee info :: class com.EmployeeApp.servlet.ListEmployee
+Connection made com.mysql.jdbc.Connection@c5a49e6
+Wed Nov 23 10:38:39 IST 2016 in getEmployeeByType class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 10:38:39 IST 2016 in getEmployeeCount class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 10:38:41 IST 2016:: in ListEmployee info :: class com.EmployeeApp.servlet.ListEmployee
+Connection made com.mysql.jdbc.Connection@1447b454
+Wed Nov 23 10:38:41 IST 2016 in getEmployeeByType class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 10:38:41 IST 2016 in getEmployeeCount class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 10:38:44 IST 2016:: in ListEmployee info :: class com.EmployeeApp.servlet.ListEmployee
+Connection made com.mysql.jdbc.Connection@6d3396fa
+Wed Nov 23 10:38:44 IST 2016 in getEmployeeByType class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 10:38:44 IST 2016 in getEmployeeCount class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 11:40:23 IST 2016:: in AddEmployee info :: class com.EmployeeApp.servlet.AddEmployee
+unable to add null
+Wed Nov 23 11:40:54 IST 2016:: in AddEmployee info :: class com.EmployeeApp.servlet.AddEmployee
+unable to add null
+Wed Nov 23 11:41:26 IST 2016:: in AddEmployee info :: class com.EmployeeApp.servlet.AddEmployee
+unable to add null
+Wed Nov 23 11:43:14 IST 2016:: in AddEmployee info :: class com.EmployeeApp.servlet.AddEmployee
+unable to add null
+Wed Nov 23 11:51:18 IST 2016:: in AddEmployee info :: class com.EmployeeApp.servlet.AddEmployee
+unable to add null
+Wed Nov 23 11:51:18 IST 2016:: in DeleteEmployee info :: class com.EmployeeApp.servlet.DeleteEmployee
+Connection made com.mysql.jdbc.Connection@1ac6bf80
+Wed Nov 23 11:51:19 IST 2016 in deleteEmployeeDepartmentDetail class com.EmployeeApp.dao.EmployeeDepartmentDetailDAO
+Connection made com.mysql.jdbc.Connection@51a7389f
+Wed Nov 23 11:51:19 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeTypeDetailDAO
+Connection made com.mysql.jdbc.Connection@1335f392
+Wed Nov 23 11:51:19 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeDAO
+Connection made com.mysql.jdbc.Connection@14e6c70
+Wed Nov 23 11:51:19 IST 2016 in deleteEmployeeDepartmentDetail class com.EmployeeApp.dao.EmployeeDepartmentDetailDAO
+Connection made com.mysql.jdbc.Connection@6fbc6c87
+Wed Nov 23 11:51:19 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeTypeDetailDAO
+Connection made com.mysql.jdbc.Connection@2eb28e63
+Wed Nov 23 11:51:19 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeDAO
+Connection made com.mysql.jdbc.Connection@3761f5b0
+Wed Nov 23 11:51:19 IST 2016 in deleteEmployeeDepartmentDetail class com.EmployeeApp.dao.EmployeeDepartmentDetailDAO
+Connection made com.mysql.jdbc.Connection@3e00367f
+Wed Nov 23 11:51:19 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeTypeDetailDAO
+Connection made com.mysql.jdbc.Connection@18d1afb9
+Wed Nov 23 11:51:19 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 11:51:32 IST 2016:: in AddEmployee info :: class com.EmployeeApp.servlet.AddEmployee
+unable to add null
+Wed Nov 23 11:51:32 IST 2016:: in DeleteEmployee info :: class com.EmployeeApp.servlet.DeleteEmployee
+Connection made com.mysql.jdbc.Connection@1ac6bf80
+Wed Nov 23 11:51:32 IST 2016 in deleteEmployeeDepartmentDetail class com.EmployeeApp.dao.EmployeeDepartmentDetailDAO
+Connection made com.mysql.jdbc.Connection@51a7389f
+Wed Nov 23 11:51:32 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeTypeDetailDAO
+Connection made com.mysql.jdbc.Connection@1335f392
+Wed Nov 23 11:51:32 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeDAO
+Connection made com.mysql.jdbc.Connection@14e6c70
+Wed Nov 23 11:51:32 IST 2016 in deleteEmployeeDepartmentDetail class com.EmployeeApp.dao.EmployeeDepartmentDetailDAO
+Connection made com.mysql.jdbc.Connection@6fbc6c87
+Wed Nov 23 11:51:32 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeTypeDetailDAO
+Connection made com.mysql.jdbc.Connection@2eb28e63
+Wed Nov 23 11:51:32 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeDAO
+Connection made com.mysql.jdbc.Connection@3761f5b0
+Wed Nov 23 11:51:32 IST 2016 in deleteEmployeeDepartmentDetail class com.EmployeeApp.dao.EmployeeDepartmentDetailDAO
+Connection made com.mysql.jdbc.Connection@3e00367f
+Wed Nov 23 11:51:32 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeTypeDetailDAO
+Connection made com.mysql.jdbc.Connection@18d1afb9
+Wed Nov 23 11:51:32 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 11:51:48 IST 2016:: in AddEmployee info :: class com.EmployeeApp.servlet.AddEmployee
+unable to add null
+Wed Nov 23 11:51:48 IST 2016:: in DeleteEmployee info :: class com.EmployeeApp.servlet.DeleteEmployee
+Connection made com.mysql.jdbc.Connection@6e467a3b
+Wed Nov 23 11:51:48 IST 2016 in deleteEmployeeDepartmentDetail class com.EmployeeApp.dao.EmployeeDepartmentDetailDAO
+Connection made com.mysql.jdbc.Connection@3976789a
+Wed Nov 23 11:51:48 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeTypeDetailDAO
+Connection made com.mysql.jdbc.Connection@3b0a0018
+Wed Nov 23 11:51:48 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeDAO
+Connection made com.mysql.jdbc.Connection@43b12dbb
+Wed Nov 23 11:51:48 IST 2016 in deleteEmployeeDepartmentDetail class com.EmployeeApp.dao.EmployeeDepartmentDetailDAO
+Connection made com.mysql.jdbc.Connection@3b794c60
+Wed Nov 23 11:51:48 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeTypeDetailDAO
+Connection made com.mysql.jdbc.Connection@4ca21d88
+Wed Nov 23 11:51:48 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeDAO
+Connection made com.mysql.jdbc.Connection@491238
+Wed Nov 23 11:51:49 IST 2016 in deleteEmployeeDepartmentDetail class com.EmployeeApp.dao.EmployeeDepartmentDetailDAO
+Connection made com.mysql.jdbc.Connection@7ff9eba5
+Wed Nov 23 11:51:49 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeTypeDetailDAO
+Connection made com.mysql.jdbc.Connection@6e67a769
+Wed Nov 23 11:51:49 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 12:12:08 IST 2016:: in DeleteEmployee info :: class com.EmployeeApp.servlet.DeleteEmployee
+Connection made com.mysql.jdbc.Connection@6abfc6e4
+Wed Nov 23 12:12:08 IST 2016 in deleteEmployeeDepartmentDetail class com.EmployeeApp.dao.EmployeeDepartmentDetailDAO
+Connection made com.mysql.jdbc.Connection@42123f26
+Wed Nov 23 12:12:08 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeTypeDetailDAO
+Connection made com.mysql.jdbc.Connection@55b8b91f
+Wed Nov 23 12:12:08 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeDAO
+Connection made com.mysql.jdbc.Connection@4937c653
+Wed Nov 23 12:12:08 IST 2016 in deleteEmployeeDepartmentDetail class com.EmployeeApp.dao.EmployeeDepartmentDetailDAO
+Connection made com.mysql.jdbc.Connection@48b6434f
+Wed Nov 23 12:12:08 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeTypeDetailDAO
+Connection made com.mysql.jdbc.Connection@17432e1a
+Wed Nov 23 12:12:08 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeDAO
+Connection made com.mysql.jdbc.Connection@7e3c205c
+Wed Nov 23 12:12:08 IST 2016 in deleteEmployeeDepartmentDetail class com.EmployeeApp.dao.EmployeeDepartmentDetailDAO
+Connection made com.mysql.jdbc.Connection@40538989
+Wed Nov 23 12:12:08 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeTypeDetailDAO
+Connection made com.mysql.jdbc.Connection@5d84d309
+Wed Nov 23 12:12:08 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 12:12:08 IST 2016:: in AddEmployee info :: class com.EmployeeApp.servlet.AddEmployee
+unable to add null
+Wed Nov 23 12:12:26 IST 2016:: in DeleteEmployee info :: class com.EmployeeApp.servlet.DeleteEmployee
+Connection made com.mysql.jdbc.Connection@17432e1a
+Wed Nov 23 12:12:26 IST 2016 in deleteEmployeeDepartmentDetail class com.EmployeeApp.dao.EmployeeDepartmentDetailDAO
+Connection made com.mysql.jdbc.Connection@3ebec13
+Wed Nov 23 12:12:26 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeTypeDetailDAO
+Connection made com.mysql.jdbc.Connection@2f1050d
+Wed Nov 23 12:12:26 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeDAO
+Connection made com.mysql.jdbc.Connection@4d51cf84
+Wed Nov 23 12:12:26 IST 2016 in deleteEmployeeDepartmentDetail class com.EmployeeApp.dao.EmployeeDepartmentDetailDAO
+Connection made com.mysql.jdbc.Connection@48f0aab8
+Wed Nov 23 12:12:26 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeTypeDetailDAO
+Connection made com.mysql.jdbc.Connection@4508dacb
+Wed Nov 23 12:12:26 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeDAO
+Connection made com.mysql.jdbc.Connection@ce61187
+Wed Nov 23 12:12:26 IST 2016 in deleteEmployeeDepartmentDetail class com.EmployeeApp.dao.EmployeeDepartmentDetailDAO
+Connection made com.mysql.jdbc.Connection@2ea7ac22
+Wed Nov 23 12:12:26 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeTypeDetailDAO
+Connection made com.mysql.jdbc.Connection@103cd1c
+Wed Nov 23 12:12:26 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 12:12:26 IST 2016:: in AddEmployee info :: class com.EmployeeApp.servlet.AddEmployee
+unable to add null
+Wed Nov 23 12:21:37 IST 2016:: in AddEmployee info :: class com.EmployeeApp.servlet.AddEmployee
+unable to add null
+Wed Nov 23 12:21:37 IST 2016:: in DeleteEmployee info :: class com.EmployeeApp.servlet.DeleteEmployee
+Connection made com.mysql.jdbc.Connection@7f2929c
+Wed Nov 23 12:21:37 IST 2016 in deleteEmployeeDepartmentDetail class com.EmployeeApp.dao.EmployeeDepartmentDetailDAO
+Connection made com.mysql.jdbc.Connection@321e4dd0
+Wed Nov 23 12:21:37 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeTypeDetailDAO
+Connection made com.mysql.jdbc.Connection@3761f5b0
+Wed Nov 23 12:21:37 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeDAO
+Connection made com.mysql.jdbc.Connection@5c6d47fc
+Wed Nov 23 12:21:37 IST 2016 in deleteEmployeeDepartmentDetail class com.EmployeeApp.dao.EmployeeDepartmentDetailDAO
+Connection made com.mysql.jdbc.Connection@70dddf46
+Wed Nov 23 12:21:37 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeTypeDetailDAO
+Connection made com.mysql.jdbc.Connection@5720171f
+Wed Nov 23 12:21:37 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeDAO
+Connection made com.mysql.jdbc.Connection@533a0538
+Wed Nov 23 12:21:37 IST 2016 in deleteEmployeeDepartmentDetail class com.EmployeeApp.dao.EmployeeDepartmentDetailDAO
+Connection made com.mysql.jdbc.Connection@3f4ee9dd
+Wed Nov 23 12:21:37 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeTypeDetailDAO
+Connection made com.mysql.jdbc.Connection@1e3307d5
+Wed Nov 23 12:21:37 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 12:21:55 IST 2016:: in DeleteEmployee info :: class com.EmployeeApp.servlet.DeleteEmployee
+Connection made com.mysql.jdbc.Connection@72b13748
+Wed Nov 23 12:21:55 IST 2016 in deleteEmployeeDepartmentDetail class com.EmployeeApp.dao.EmployeeDepartmentDetailDAO
+Connection made com.mysql.jdbc.Connection@202b79ef
+Wed Nov 23 12:21:55 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeTypeDetailDAO
+Connection made com.mysql.jdbc.Connection@48b6434f
+Wed Nov 23 12:21:56 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeDAO
+Connection made com.mysql.jdbc.Connection@17432e1a
+Wed Nov 23 12:21:56 IST 2016 in deleteEmployeeDepartmentDetail class com.EmployeeApp.dao.EmployeeDepartmentDetailDAO
+Connection made com.mysql.jdbc.Connection@7e3c205c
+Wed Nov 23 12:21:56 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeTypeDetailDAO
+Connection made com.mysql.jdbc.Connection@7a536ac6
+Wed Nov 23 12:21:56 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeDAO
+Connection made com.mysql.jdbc.Connection@cc99e73
+Wed Nov 23 12:21:56 IST 2016 in deleteEmployeeDepartmentDetail class com.EmployeeApp.dao.EmployeeDepartmentDetailDAO
+Connection made com.mysql.jdbc.Connection@7bf081cf
+Wed Nov 23 12:21:56 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeTypeDetailDAO
+Connection made com.mysql.jdbc.Connection@1be48a7
+Wed Nov 23 12:21:56 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 12:21:56 IST 2016:: in AddEmployee info :: class com.EmployeeApp.servlet.AddEmployee
+unable to add null
+Wed Nov 23 12:22:16 IST 2016:: in DeleteEmployee info :: class com.EmployeeApp.servlet.DeleteEmployee
+Connection made com.mysql.jdbc.Connection@6245d652
+Wed Nov 23 12:22:16 IST 2016 in deleteEmployeeDepartmentDetail class com.EmployeeApp.dao.EmployeeDepartmentDetailDAO
+Connection made com.mysql.jdbc.Connection@8c19694
+Wed Nov 23 12:22:16 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeTypeDetailDAO
+Connection made com.mysql.jdbc.Connection@27380357
+Wed Nov 23 12:22:16 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeDAO
+Connection made com.mysql.jdbc.Connection@33d87ab8
+Wed Nov 23 12:22:16 IST 2016 in deleteEmployeeDepartmentDetail class com.EmployeeApp.dao.EmployeeDepartmentDetailDAO
+Connection made com.mysql.jdbc.Connection@33242ed6
+Wed Nov 23 12:22:16 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeTypeDetailDAO
+Connection made com.mysql.jdbc.Connection@46e4725b
+Wed Nov 23 12:22:16 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeDAO
+Connection made com.mysql.jdbc.Connection@6fb1d085
+Wed Nov 23 12:22:16 IST 2016 in deleteEmployeeDepartmentDetail class com.EmployeeApp.dao.EmployeeDepartmentDetailDAO
+Connection made com.mysql.jdbc.Connection@360f0ac4
+Wed Nov 23 12:22:17 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeTypeDetailDAO
+Connection made com.mysql.jdbc.Connection@30583b71
+Wed Nov 23 12:22:17 IST 2016 in deleteEmployeeById class com.EmployeeApp.dao.EmployeeDAO
+Wed Nov 23 12:22:17 IST 2016:: in AddEmployee info :: class com.EmployeeApp.servlet.AddEmployee
+unable to add null

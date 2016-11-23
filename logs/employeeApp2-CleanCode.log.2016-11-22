@@ -1,0 +1,24 @@
+Tue Nov 22 18:29:29 IST 2016:: in PropertiesServlet info :: class com.EmployeeApp.servlet.PropertiesServlet
+Tue Nov 22 18:29:29 IST 2016 in Resource Properties Map getMap method class com.EmployeeApp.util.ResourcePropertiesMap
+Properties Hash Map {saveEmployeeMessage=Employee has been saved successfully}
+Tue Nov 22 18:29:29 IST 2016:: in DepartmentList info :: class com.EmployeeApp.servlet.DepartmentList
+Connection made com.mysql.jdbc.Connection@194527c6
+Tue Nov 22 18:29:29 IST 2016 in getDepartmentList class com.EmployeeApp.dao.DepartmentDAO
+Tue Nov 22 18:29:30 IST 2016:: in ListEmployee info :: class com.EmployeeApp.servlet.ListEmployee
+Connection made com.mysql.jdbc.Connection@3542d6bb
+Tue Nov 22 18:29:30 IST 2016 in getEmployeeByType class com.EmployeeApp.dao.EmployeeDAO
+Tue Nov 22 18:29:30 IST 2016 in getEmployeeCount class com.EmployeeApp.dao.EmployeeDAO
+Tue Nov 22 18:29:35 IST 2016:: in login servlet info :: class com.EmployeeApp.servlet.LoginServlet
+Login Module - initialize called
+Login Module - login called
+Tue Nov 22 18:29:35 IST 2016in handle method class com.EmployeeApp.handler.MyCallbackHandler
+Connection made com.mysql.jdbc.Connection@5941bcbc
+Tue Nov 22 18:29:35 IST 2016 in authenticate class com.EmployeeApp.dao.UserDAO
+Login Module - commit called
+Tue Nov 22 18:29:35 IST 2016:: in ListEmployee info :: class com.EmployeeApp.servlet.ListEmployee
+Connection made com.mysql.jdbc.Connection@6b7dcfcd
+Tue Nov 22 18:29:35 IST 2016 in getEmployeeByType class com.EmployeeApp.dao.EmployeeDAO
+Tue Nov 22 18:29:35 IST 2016 in getEmployeeCount class com.EmployeeApp.dao.EmployeeDAO
+Tue Nov 22 18:29:44 IST 2016:: in UpdateEmployee info :: class com.EmployeeApp.servlet.UpdateEmployee
+Connection made com.mysql.jdbc.Connection@7d0d21ba
+unable to update java.lang.NumberFormatException: For input string: "CONTRACT"
